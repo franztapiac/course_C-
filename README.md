@@ -1,4 +1,4 @@
-# course_Cpp
+# C++ Programming course
 Course projects for the completion of C++ course (MEng Biomedical Engineering, Imperial College London, 2016)
 
 - cell.cpp                  Cellular automaton modelling the temporal growth of (cancer) cells in a petri dish 
